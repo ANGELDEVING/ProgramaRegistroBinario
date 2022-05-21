@@ -1,0 +1,10 @@
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\bin\Debug\ArchivoBinarioAlumnos.exe.config
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\bin\Debug\ArchivoBinarioAlumnos.exe
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\bin\Debug\ArchivoBinarioAlumnos.pdb
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.csproj.AssemblyReference.cache
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.Form1.resources
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.Properties.Resources.resources
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.csproj.GenerateResource.cache
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.exe
+C:\Users\Angel Valencia\source\repos\ArchivoBinarioAlumnos\ArchivoBinarioAlumnos\obj\Debug\ArchivoBinarioAlumnos.pdb
