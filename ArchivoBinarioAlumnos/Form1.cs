@@ -40,6 +40,7 @@ namespace ArchivoBinarioAlumnos
 
         private void btn_Buscar_Click(object sender, EventArgs e)
         {
+            ///buscar archivo
             try
             {
                 ClsAlumnosR objBuscar = new ClsAlumnosR();
